@@ -8,12 +8,12 @@ Vision Transformers have made remarkable progress in recent years, achieving sta
 
 ### Heads Overlap
 <div style="color:#0000FF" align="center">
-<img src="figures/heads_overlap.pdf"/>
+<img src="figures/heads_overlap.png"/>
 </div>
 
 ### Main Architecture
 <div style="color:#0000FF" align="center">
-<img src="figures/MOHSA.pdf"/>
+<img src="figures/MOHSA.png"/>
 </div>
 
 
